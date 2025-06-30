@@ -308,35 +308,35 @@
     "fields": [
       {
         "component": "text",
-        "label": "Search",
+        "label": "Cta Text",
         "name": "search",
         "value": "",
         "valueType": "string"
       },
       {
         "component": "text",
-        "label": "Search",
+        "label": "Icon Search",
         "name": "search",
         "value": "",
         "valueType": "string"
       },
       {
         "component": "text",
-        "label": "Search",
-        "name": "search",
+        "label": "Close Icon",
+        "name": "close",
         "value": "",
         "valueType": "string"
       },
       {
         "component": "text",
-        "label": "Search",
-        "name": "search",
+        "label": "Close Variation Icon",
+        "name": "closeVar",
         "value": "",
         "valueType": "string"
       },
       {
         "component": "text",
-        "label": "Search",
+        "label": "Additinal Text",
         "name": "search",
         "value": "",
         "valueType": "string"
