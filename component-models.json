@@ -302,5 +302,93 @@
         "valueType": "string"
       }
     ]
+  },
+  {
+    "id": "search",
+    "fields": [
+      {
+        "component": "text",
+        "label": "Search",
+        "name": "search",
+        "value": "",
+        "valueType": "string"
+      },
+      {
+        "component": "select",
+        "label": "Title type",
+        "name": "titleType",
+        "valueType": "string",
+        "options": [
+          {
+            "name": "h1",
+            "value": "h1"
+          },
+          {
+            "name": "h2",
+            "value": "h2"
+          },
+          {
+            "name": "h3",
+            "value": "h3"
+          },
+          {
+            "name": "h4",
+            "value": "h4"
+          },
+          {
+            "name": "h5",
+            "value": "h5"
+          },
+          {
+            "name": "h6",
+            "value": "h6"
+          }
+        ]
+      },
+      {
+        "component": "select",
+        "label": "class variations",
+        "name": "classes",
+        "valueType": "string",
+        "options": [
+          {
+            "name": "books",
+            "value": "books"
+          },
+          {
+            "name": "beaches",
+            "value": "beaches"
+          },
+          {
+            "name": "sunset",
+            "value": "sunset"
+          },
+          {
+            "name": "monuments",
+            "value": "monuments"
+          }
+        ]
+      },
+      {
+        "component": "richtext",
+        "label": "Description",
+        "name": "description",
+        "value": "",
+        "valueType": "string"
+      },
+      {
+        "component": "reference",
+        "label": "Image",
+        "name": "image",
+        "multi": "false",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "label": "Image Alt",
+        "name": "imageAlt",
+        "valueType": "string"
+      }
+    ]
   }
 ]
