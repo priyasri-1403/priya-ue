@@ -30,28 +30,28 @@
                  {
                     "component":"text",
                     "label":"Icon Search",
-                    "name":"search",
+                    "name":"search icon",
                     "value":"",
                     "valueType":"string"
                 },
                  {
                     "component":"text",
                     "label":"Close Icon",
-                    "name":"close",
+                    "name":"close icon",
                     "value":"",
                     "valueType":"string"
                 },
                  {
                     "component":"text",
                     "label":"Close Variation Icon",
-                    "name":"closeVar",
+                    "name":"closeVar icon",
                     "value":"",
                     "valueType":"string"
                 },
                  {
                     "component":"text",
                     "label":"Additinal Text",
-                    "name":"search",
+                    "name":"recent search",
                     "value":"",
                     "valueType":"string"
                 }
